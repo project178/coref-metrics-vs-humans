@@ -1,2 +1,2 @@
 # internship
-Coreference resolution metrics interpretaion
+Coreference resolution metrics interpretation
